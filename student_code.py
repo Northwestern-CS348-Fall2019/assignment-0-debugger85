@@ -1,3 +1,3 @@
 def hello_world():
-	print('Hello! First commit for assignment 0.')
+	print('Hello!')
 	return True
