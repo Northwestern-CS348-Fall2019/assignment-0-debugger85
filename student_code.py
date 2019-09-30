@@ -1,3 +1,3 @@
 def hello_world():
-	print('Hello, first assignment!')
+	print('Hello!')
 	return True
